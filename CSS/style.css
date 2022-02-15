@@ -1,12 +1,19 @@
+@font-face {
+    font-family: "VerryBerry Pro";
+    src: url(fonts/rukopis.ttf) format("truetype");
+}
 body {
-	font-family: "Comic Sans Ms";
-	color: red;
+	font-family: "VerryBerry Pro";
 	text-align: center;
 	background: url("back.jpg");
 }
 .head {
-	font-family: "Comic Sans Ms";
+	font-family: "VerryBerry Pro";
 	color: purple;
 	text-align: center;
+	font-size: 30px;
 	
+}
+.text {
+	font-size: 30px;
 }
