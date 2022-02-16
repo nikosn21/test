@@ -12,8 +12,34 @@ body {
 	color: purple;
 	text-align: center;
 	font-size: 30px;
+	filter: sepia(100%);
 	
 }
 .text {
 	font-size: 30px;
 }
+.general {
+	color: #5e4e25;
+	font-size: 30px;
+	width: 550px;
+	heigth: 550px;
+	margin-left: 670px;
+	text-align: left;
+}
+.gentext {
+	width: 500px;
+	heigth: 550px;
+	position: absolute;
+	bottom: 40px;
+	left: 720px;
+	
+}
+.gen1 {
+	
+	width: 500px;
+	heigth: 300px;
+	position: absolute;
+	top: 1100px;
+	left: 720px;
+}
+
